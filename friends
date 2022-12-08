@@ -1,0 +1,7 @@
+var friend = "Sara"
+if (friend === "Sara") {
+    console.log("What's up idiot");
+}
+else {
+    console.log("Hey what's up");
+}
